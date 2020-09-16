@@ -15,8 +15,10 @@
     <link rel="stylesheet" href="css\jquery.timepicker.css">
     <link rel="stylesheet" href="css\flaticon.css">
     <link rel="stylesheet" href="css\style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 <body>
+<a id="buttonx"></a>
 <div class="wrap">
     <div class="container">
         <div class="row justify-content-between">
@@ -310,5 +312,31 @@
 </script>
 <script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js"
         data-cf-settings="85b68e1e84680022d5e3537b-|49" defer=""></script>
+<script src=”https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js”></script>
+
+<script>
+
+    jQuery(document).ready(function() {
+
+        var btn = $('#buttonx');
+
+        $(window).scroll(function() {
+            if ($(window).scrollTop() > 300) {
+                btn.addClass('show');
+            } else {
+                btn.removeClass('show');
+            }
+        });
+
+        btn.on('click', function(e) {
+            e.preventDefault();
+            $('html, body').animate({scrollTop:0}, '300');
+        });
+
+    });
+
+</script>
+
+
 </body>
 </html>
