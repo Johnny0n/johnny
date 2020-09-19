@@ -27,6 +27,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1600287938244</updated>
       <workItem from="1600287940538" duration="8338000" />
-      <workItem from="1600299419005" duration="396000" />
+      <workItem from="1600299419005" duration="746000" />
+      <workItem from="1600518554801" duration="4145000" />
     </task>
     <servers />
   </component>
@@ -99,10 +103,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1085" y="354" key="#Notifications" timestamp="1600299788013">
+    <state x="-1085" y="354" key="#Notifications" timestamp="1600300048671">
       <screen x="-1680" y="25" width="1680" height="1010" />
     </state>
-    <state x="-1085" y="354" key="#Notifications/0.0.1920.1040/-1680.25.1680.1010@-1680.25.1680.1010" timestamp="1600299788013" />
+    <state x="-1085" y="354" key="#Notifications/0.0.1920.1040/-1680.25.1680.1010@-1680.25.1680.1010" timestamp="1600300048671" />
     <state x="-1599" y="114" width="1519" height="832" key="DiffContextDialog" timestamp="1600299814661">
       <screen x="-1680" y="25" width="1680" height="1010" />
     </state>
@@ -112,6 +116,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1680.25.1680.1010@0.0.1920.1040" timestamp="1600298823438" />
+    <state x="-1616" y="96" key="MergeDialog" timestamp="1600299923085">
+      <screen x="-1680" y="25" width="1680" height="1010" />
+    </state>
+    <state x="-1616" y="96" key="MergeDialog/0.0.1920.1040/-1680.25.1680.1010@-1680.25.1680.1010" timestamp="1600299923085" />
+    <state x="-1202" y="291" key="MultipleFileMergeDialog" timestamp="1600299923092">
+      <screen x="-1680" y="25" width="1680" height="1010" />
+    </state>
+    <state x="-1202" y="291" key="MultipleFileMergeDialog/0.0.1920.1040/-1680.25.1680.1010@-1680.25.1680.1010" timestamp="1600299923092" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1600298844138">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
