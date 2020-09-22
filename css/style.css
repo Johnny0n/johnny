@@ -9772,27 +9772,61 @@ textarea.form-control {
   text-shadow: 1px 1px 1px black, 0 0 1px white !important;
 }
 
-.nl{
-  color:#FFFFFF !important;
+.nl {
+  color: #FFFFFF !important;
   font-weight: bold;
+  font-size: 22px !important;
 }
 .sk{
     color:#FFFFFF !important;
-    text-decoration: line-through;
+    text-decoration: line-through !important;
+    font-size: 15px;
 }
 
-.stojaki{
+.stojaki-margin{
   margin-top: 20px;
 }
 
-.scrollup{
-  width:40px;
-  height:40px;
-  opacity:0.3;
-  position:fixed;
-  bottom:50px;
-  right:100px;
-  display:none;
-  text-indent:-9999px;
-  background: url('icon_top.png') no-repeat;
+a.icon.image-popup.d-flex.justify-content-center.align-items-center {
+  background-color: #FFCA52 !important;
+  margin-top: -131px !important;
+}
+
+.gotopbtn{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #646464;
+  bottom: 20px;
+  right: 20px;
+  z-index: 999999;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  border-radius: 8px;
+}
+.telx{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: #646464;
+  bottom: 20px;
+  left: 20px;
+  z-index: 999999;
+
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  font-size: 22px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+  border-radius: 8px;
+}
+
+html {
+  scroll-behavior: smooth;
 }

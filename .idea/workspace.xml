@@ -28,9 +28,15 @@
   <component name="ChangeListManager">
     <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bg_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesx/blokada_1_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagesx/blokada_1_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imagesx/blokada_3_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imagesx/blokada_3_1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/opis.html" beforeDir="false" afterPath="$PROJECT_DIR$/opis.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +77,9 @@
       <updated>1600287938244</updated>
       <workItem from="1600287940538" duration="8338000" />
       <workItem from="1600299419005" duration="746000" />
-      <workItem from="1600518554801" duration="4145000" />
+      <workItem from="1600518554801" duration="4505000" />
+      <workItem from="1600620721884" duration="5661000" />
+      <workItem from="1600808203032" duration="3726000" />
     </task>
     <servers />
   </component>
@@ -136,5 +144,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1680.25.1680.1010@0.0.1920.1040" timestamp="1600298853400" />
+    <state x="-1659" y="25" width="1402" height="1027" key="dock-window-1" timestamp="1600640400404">
+      <screen x="-1680" y="25" width="1680" height="1010" />
+    </state>
+    <state x="-1659" y="25" width="1402" height="1027" key="dock-window-1/0.0.1920.1040/-1680.25.1680.1010@0.0.1920.1040" timestamp="1600640400404" />
   </component>
 </project>
