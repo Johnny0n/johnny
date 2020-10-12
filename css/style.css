@@ -9772,15 +9772,26 @@ textarea.form-control {
   text-shadow: 1px 1px 1px black, 0 0 1px white !important;
 }
 
+
+.nlx {
+  color: #414141 !important;
+  font-weight: bold;
+  font-size: 22px !important;
+}
+.skx{
+  color: #414141 !important;
+  text-decoration: line-through !important;
+  font-size: 15px;
+}
 .nl {
-  color: black !important;
+  color: #414141 !important;
   font-weight: bold;
   font-size: 22px !important;
 }
 .sk{
-    color: black !important;
-    text-decoration: line-through !important;
-    font-size: 15px;
+  color: #414141 !important;
+  text-decoration: line-through !important;
+  font-size: 15px;
 }
 
 .stojaki-margin{
@@ -9879,4 +9890,28 @@ html {
 
 .cardX{
   text-align: end;
+}
+
+h1.card-title {
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  color: #f79f24
+
+}
+div.icon.d-flex.justify-content-center.align-items-center,div.intro-box.d-flex.align-items-center, .bg-intro:after {
+  background-color: #e88700;
+}
+a.nav-link.active.py-2 {
+  background-color: #FFB933 !important;
+}
+span.nl {
+  color: #FFFFFF !important;
+}
+
+span.sk {
+  color: #e88700 !important;
+}
+span.fa.fa-location-arrow {
+  color: #FFDC8E !important;
 }

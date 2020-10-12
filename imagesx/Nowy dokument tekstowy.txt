@@ -1,0 +1,92 @@
+    <div class="container">
+        <div class="row justify-content-center pb-5 mb-3 ">
+            <div class="col-md-7 heading-section text-center ftco-animate stojaki-margin">
+                <span class="subheading">Asortyment</span>
+                <h1>Stojaki Rowerowe</h1>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 ftco-animate">
+        <div class="work mb-4 img d-flex align-items-end" style="background-image: url(imagesx/stojak_1_1.jpg);">
+            <a href="imagesx\stojak_1_2.jpg"
+               class="icon image-popup d-flex justify-content-center align-items-center">
+                <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4">
+                <div class="text w-100 mb-3">
+                    <span>Stojak na rower rowerowy #1</span>
+                    <h2><a href="opis.html">Dla
+                        przechowywania rowerów na dworze jak i wewnątrz pomieszczeń.</a></h2>
+                    <row>
+                        <span class="nl">60 zł</span> <span class="sk">100 zł</span>
+                    </row>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 ftco-animate">
+        <div class="work mb-4 img d-flex align-items-end" style="background-image: url(imagesx/stojak_2_1.jpg);">
+            <a href="imagesx\stojak_2_2.jpg"
+               class="icon image-popup d-flex justify-content-center align-items-center">
+                <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4">
+                <div class="text w-100 mb-3">
+                    <span>Stojak dla 4 rowerów #2</span>
+                    <h2><a href="opis.html">Pozwala to ustawić rowery skierowane naprzemiennie, aby nie uderzały o
+                        siebie.</a></h2>
+                    <row>
+                        <span class="nl">200 zł</span> <span class="sk">250 zł</span>
+                    </row>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 ftco-animate">
+        <div class="work mb-4 img d-flex align-items-end" style="background-image: url(imagesx/stojak_3_1.jpg);">
+            <a href="imagesx\stojak_3_2.jpg"
+               class="icon image-popup d-flex justify-content-center align-items-center">
+                <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4">
+                <div class="text w-100 mb-3">
+                    <span>Stojak na rower #3</span>
+                    <h2><a href="opis.html">Uchwyt przeznaczony zarówno do sufitów poziomych (tradycyjnych) jak i
+                        skośnych.</a></h2>
+                    <row>
+                        <span class="nl">340 zł</span> <span class="sk">450 zł</span>
+                    </row>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 ftco-animate">
+        <div class="work mb-4 img d-flex align-items-end" style="background-image: url(imagesx/stojak_4_1.jpg);">
+            <a href="imagesx\stojak_4_1.jpg"
+               class="icon image-popup d-flex justify-content-center align-items-center">
+                <span class="fa fa-expand"></span>
+            </a>
+            <div class="desc w-100 px-4">
+                <div class="text w-100 mb-3">
+                    <span>Stojak na rower #4</span>
+                    <h2><a href="opis.html">Stojak na rower dla
+                        przechowywania rowerów wewnątrz pomieszczeń jak i dworze.</a></h2>
+                    <row>
+                        <span class="nl">50 zł</span> <span class="sk">100 zł</span>
+                    </row>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        <div class="image-popup" href="imagesx/blokada_1_1.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_1_3.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_1_4.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_2_1.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_2_3.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_3_1.jpg"></div>
+        <div class="image-popup" href="imagesx/blokada_3_3.jpg"></div>
+        <div class="image-popup" href="imagesx/stojak_1_2.jpg"></div>
+        <div class="image-popup" href="imagesx/stojak_2_2.jpg"></div>
+        <div class="image-popup" href="imagesx/stojak_3_2.jpg"></div>
