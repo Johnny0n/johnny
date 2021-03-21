@@ -8064,7 +8064,7 @@ h1, h2, h3, h4, h5,
     padding-bottom: 1rem;
     padding-left: 23px;
     padding-right: 23px;
-    font-weight: 500;
+    font-weight: 600;
     color: #545454;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -9917,5 +9917,8 @@ span.fa.fa-location-arrow {
 }
 body{
 .navbar-brand:hover, .navbar-brand:focus {
-color: #545454 !important;}}
+color: #545454 !important;}
 
+.promo{
+font-weight: 800 !important;
+}}
