@@ -26,7 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="" />
+    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stojaki-rowerowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/stojaki-rowerowe.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +53,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -87,6 +91,9 @@
       <workItem from="1603479955064" duration="859000" />
       <workItem from="1604838660012" duration="14000" />
       <workItem from="1616362830271" duration="2957000" />
+      <workItem from="1616365921491" duration="234000" />
+      <workItem from="1625596716526" duration="1952000" />
+      <workItem from="1626632404582" duration="2603000" />
     </task>
     <servers />
   </component>
