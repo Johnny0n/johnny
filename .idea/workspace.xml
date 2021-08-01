@@ -26,7 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="">
+    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="poprawki wprowadzające do seo z blokadami i stojakami">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stojaki-rowerowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/stojaki-rowerowe.html" afterDir="false" />
@@ -93,8 +93,17 @@
       <workItem from="1616362830271" duration="2957000" />
       <workItem from="1616365921491" duration="234000" />
       <workItem from="1625596716526" duration="1952000" />
-      <workItem from="1626632404582" duration="2603000" />
+      <workItem from="1626632404582" duration="2697000" />
+      <workItem from="1627835031803" duration="4167000" />
     </task>
+    <task id="LOCAL-00001" summary="poprawki wprowadzające do seo z blokadami i stojakami">
+      <created>1626641565876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626641565876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,5 +132,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="poprawki wprowadzające do seo z blokadami i stojakami" />
+    <option name="LAST_COMMIT_MESSAGE" value="poprawki wprowadzające do seo z blokadami i stojakami" />
   </component>
 </project>
