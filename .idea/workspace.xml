@@ -26,11 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="poprawki wprowadzające do seo z blokadami i stojakami">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stojaki-rowerowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/stojaki-rowerowe.html" afterDir="false" />
-    </list>
+    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="poprawki wprowadzające do seo z blokadami i stojakami" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +91,7 @@
       <workItem from="1625596716526" duration="1952000" />
       <workItem from="1626632404582" duration="2697000" />
       <workItem from="1627835031803" duration="4167000" />
+      <workItem from="1627926826267" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="poprawki wprowadzające do seo z blokadami i stojakami">
       <created>1626641565876</created>
