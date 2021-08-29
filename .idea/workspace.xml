@@ -26,7 +26,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="poprawki wprowadzające do seo z blokadami i stojakami" />
+    <list default="true" id="9b052ffc-1cf0-4086-990c-ea8897256d2e" name="Default Changelist" comment="zmiany inicjujące blokady i stojaki">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blokady-parkingowe - Copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/bp-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blokady-parkingowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/blokady-parkingowe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stojaki-rowerowe - Copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/sr-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stojaki-rowerowe.html" beforeDir="false" afterPath="$PROJECT_DIR$/stojaki-rowerowe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uslugi.html" beforeDir="false" afterPath="$PROJECT_DIR$/uslugi.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +44,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1hblzjXSIEL2he6946ydykQGtQF" />
   <component name="ProjectLevelVcsManager">
@@ -92,6 +107,8 @@
       <workItem from="1626632404582" duration="2697000" />
       <workItem from="1627835031803" duration="4167000" />
       <workItem from="1627926826267" duration="616000" />
+      <workItem from="1629876651235" duration="68000" />
+      <workItem from="1630238500847" duration="5735000" />
     </task>
     <task id="LOCAL-00001" summary="poprawki wprowadzające do seo z blokadami i stojakami">
       <created>1626641565876</created>
@@ -100,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626641565876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zmiany inicjujące blokady i stojaki">
+      <created>1629876701848</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629876701848</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="poprawki wprowadzające do seo z blokadami i stojakami" />
-    <option name="LAST_COMMIT_MESSAGE" value="poprawki wprowadzające do seo z blokadami i stojakami" />
+    <MESSAGE value="zmiany inicjujące blokady i stojaki" />
+    <option name="LAST_COMMIT_MESSAGE" value="zmiany inicjujące blokady i stojaki" />
   </component>
 </project>
